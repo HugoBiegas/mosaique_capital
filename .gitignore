@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Firebase Security ###
+**/mosaique-capital-firebase-adminsdk*.json
